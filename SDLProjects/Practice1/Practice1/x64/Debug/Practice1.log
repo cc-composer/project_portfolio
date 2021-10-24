@@ -1,0 +1,6 @@
+﻿  RenderWindow.cpp
+D:\Project_Portfolio\SDLProjects\Practice1\Practice1\RenderWindow.cpp(67,34): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Project_Portfolio\SDLProjects\Practice1\Practice1\RenderWindow.cpp(67,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Project_Portfolio\SDLProjects\Practice1\Practice1\RenderWindow.cpp(67,46): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Project_Portfolio\SDLProjects\Practice1\Practice1\RenderWindow.cpp(67,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Practice1.vcxproj -> D:\Project_Portfolio\SDLProjects\Practice1\x64\Debug\Practice1.exe
